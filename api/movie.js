@@ -11,6 +11,3 @@ export default async function handler(request, response) {
     .status(200)
     .json(json)
 }
-
-// 52c458e9
-// 7035c60c
